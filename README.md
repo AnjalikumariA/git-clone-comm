@@ -1,2 +1,2 @@
 # git-clone-comm
-using clone comand
+using clone command
